@@ -1,0 +1,4 @@
+O código fonte do programa é "Pas.java", basta exécutá-lo, o arquivo "dados" é onde está armazenado os registros de ocorrências já registrados, e os que virão a serem registrados.
+Na pasta imagens estão os favicons da Janela principal, Janela de Relatórios e alguns prints do programa funcionando.
+
+O programa foi escrito no SublimeText, como padrão utiliza-se a codificação UTF-8, porém tanto a código fonte, quanto os dados foram colocados em ISO-8859-1.
